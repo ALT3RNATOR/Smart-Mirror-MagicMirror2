@@ -39,4 +39,4 @@ An interactive smart mirror built using Raspberry Pi and MagicMirror² that disp
 ```bash
 git clone https://github.com/MichMich/MagicMirror
 cd MagicMirror
-npm install
+npm instal
